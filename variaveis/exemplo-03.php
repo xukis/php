@@ -18,6 +18,8 @@ $nascimento = new DateTime();
 
 $arquivo = fopen("exemplo-03.php", "r");
 
-var_dump($arquivo);
+//var_dump($arquivo);
+$nulo = NULL;
+$vazio = "";
 
 ?>
