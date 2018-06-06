@@ -1,0 +1,15 @@
+{
+    "name": "xukis/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andre Polo Norte",
+            "email": "apolonorte@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
